@@ -1,0 +1,12 @@
+    "builtin": "False",
+    "default_enabled": "True",
+    "type": "extension",
+    "rocket_mode_compatible": "True",
+    "name": "bcs",
+    "description": "Extensions for PyRevit",
+    "author": "Jean-Marc ",
+    "author_profile": "",
+    "url": "https://github.com/jmcouffin/bcs-sampler.git",
+    "website": "",
+    "image": "",
+    "dependencies": []
