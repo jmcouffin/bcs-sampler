@@ -1,3 +1,4 @@
+{
     "builtin": "False",
     "default_enabled": "True",
     "type": "extension",
@@ -10,3 +11,4 @@
     "website": "",
     "image": "",
     "dependencies": []
+	}
